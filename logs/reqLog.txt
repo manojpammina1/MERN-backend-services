@@ -1,0 +1,16 @@
+2024-12-24 	 17:44:12 	 b97841fe-8281-46b4-8a3d-b80de0f9bd1d	Request URL: /new-page 	 Request Method: GET
+2024-12-24 	 17:44:13 	 4d90a368-d309-43ba-a2c1-b39120c0bc7c	Request URL: /favicon.ico 	 Request Method: GET
+2024-12-24 	 17:45:42 	 defd0aac-0b97-4cc4-bd75-b33fbb28462d	Request URL: /new-page 	 Request Method: GET
+2024-12-24 	 17:45:42 	 849bf574-6f15-4843-b909-63dba2c77793	Request URL: /favicon.ico 	 Request Method: GET
+2024-12-24 	 17:46:04 	 9126c832-28a1-4b81-a7d6-d6e80f79ea6a	Request URL: /new-page 	 Request Method: GET
+2024-12-24 	 17:46:04 	 09a0ba57-49a0-476f-a5e0-3287197bfc16	Request URL: /favicon.ico 	 Request Method: GET
+2024-12-24 	 17:47:48 	 db9375c8-ce79-4ab8-91cb-2b52d21f9e4d	Request URL: /new-page 	 Request Method: GET
+2024-12-24 	 17:48:23 	 48b5b730-76a1-4651-a59c-6d1d74a41e34	Request URL: /favicon.ico 	 Request Method: GET
+2024-12-24 	 17:51:07 	 2c738789-36a5-42f6-953c-cc18bb47a94f	/new-page 	 GET
+2024-12-24 	 17:51:17 	 bcaf97ba-3737-4683-9136-43b26cd119c7	/favicon.ico 	 GET
+2024-12-24 	 17:54:43 	 5474f4eb-eb55-4046-b4ae-0e5d5059405c	/new-page 	 GET
+2024-12-24 	 17:54:47 	 27dfd44c-8026-4b51-98d3-20efa445fd23	/img/img1.jpg 	 GET
+2024-12-24 	 17:54:47 	 539bf478-2614-4433-b562-779a7914e159	/css/style.css 	 GET
+2024-12-24 	 17:54:48 	 60f585da-a98c-4033-ad29-ed5a0f01e887	/favicon.ico 	 GET
+2024-12-24 	 17:56:41 	 23a64a03-d10a-456f-af1d-c5e6ef834c40	/index 	 GET
+2024-12-24 	 17:56:46 	 288711ca-ff9a-4e83-8c6f-d869b96a55aa	/css/style.css 	 GET

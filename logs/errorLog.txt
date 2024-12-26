@@ -1,0 +1,16 @@
+2024-12-24 	 17:44:12 	 20b5d8ab-295b-44ca-8b2d-d3b52a762f52	Request URL: RangeError 	 Request Method: Invalid status code: false
+2024-12-24 	 17:44:13 	 0e5ff3d0-0d9b-49a3-a6a8-5c7d477297b8	Request URL: RangeError 	 Request Method: Invalid status code: false
+2024-12-24 	 17:45:42 	 0d336de0-30ce-4a18-a8cc-03cabc88d5fc	Request URL: RangeError 	 Request Method: Invalid status code: false
+2024-12-24 	 17:45:42 	 fcbe3f64-de6e-41f7-8cac-2ee58ec35d21	Request URL: RangeError 	 Request Method: Invalid status code: true
+2024-12-24 	 17:46:04 	 93d978ba-62fd-4743-aeac-155f81c91291	Request URL: RangeError 	 Request Method: Invalid status code: false
+2024-12-24 	 17:46:04 	 802d78c0-4691-42a9-8355-0bb4eae4504e	Request URL: RangeError 	 Request Method: Invalid status code: true
+2024-12-24 	 17:48:08 	 219ea712-8918-4caf-8b5d-1f8bbe9b0c91	Request URL: RangeError 	 Request Method: Invalid status code: false
+2024-12-24 	 17:48:25 	 c88623d9-8826-4a2d-8a87-f983a57516f1	Request URL: RangeError 	 Request Method: Invalid status code: true
+2024-12-24 	 17:51:17 	 f2c5580f-20d7-4137-8527-37452de1ba16	RangeError:  Invalid status code: false
+2024-12-24 	 17:51:37 	 e35f90fe-0f06-408e-a0e4-d09db282e69b	RangeError:  Invalid status code: true
+2024-12-25 	 19:45:14 	 03d7bbe7-b889-492e-9290-e81060b2b612	Error : Not allowed by CORS
+2024-12-25 	 19:56:44 	 d5f4c54c-eead-4b9e-9522-93289648e142	Error : ENOENT: no such file or directory, stat '/Users/manojpammina/Desktop/Interview-Prep/node/routes/views/subdir/index.html'
+2024-12-25 	 19:56:54 	 e6a70ac5-75da-44f6-a6b9-67deb4b40fb3	Error : ENOENT: no such file or directory, stat '/Users/manojpammina/Desktop/Interview-Prep/node/routes/views/subdir/index.html'
+2024-12-25 	 22:42:29 	 97bc15af-9999-4f40-b78b-ebf73d05a18e	ReferenceError : err is not defined
+2024-12-25 	 22:42:50 	 91ff8987-6235-404b-844a-970c15881d50	ReferenceError : err is not defined
+2024-12-26 	 13:14:14 	 d7f0358a-acb0-4750-8119-4db61afdd7ae	TypeError : r.toLowerCase is not a function
